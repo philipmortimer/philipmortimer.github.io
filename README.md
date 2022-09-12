@@ -11,3 +11,5 @@ Here are some screenshots of it in action.
 ![p vs ai](https://user-images.githubusercontent.com/64362945/189450402-14857791-075d-40f8-bd46-517917c0b9df.png)
 
 ![hand tracking](https://user-images.githubusercontent.com/64362945/189450426-d835958d-872c-484d-83d0-10d55b6797db.png)
+
+Please note that this may not work on mobile devices. It has been verified to work for Chrome, Edge and Firefox desktop devices.
