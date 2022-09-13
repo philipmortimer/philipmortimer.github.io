@@ -4,7 +4,7 @@ This repo is a website that uses computer vision and ML models to allow you to p
 You can play webcam vs webcam, webcam vs ai or ai vs ai.
 You can find the code for the website at: https://github.com/philipmortimer/Rock-Paper-Scissors (specifically, the folder "Rock Paper Scissors Website", which
 can be found at https://github.com/philipmortimer/Rock-Paper-Scissors/tree/main/Rock%20Paper%20Scissors%20Website).
-Please enjoy!. The link to the website should be: https://philipmortimer.github.io 
+Please enjoy!. The link to the website should be: https://philipmortimer.github.io or https://rock-paper-scissors-ai-game.web.app/
 
 Here are some screenshots of it in action.
 
